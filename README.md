@@ -1,9 +1,9 @@
-# Enthusiast, Software-Craftsman, Pragmatic
+# Enthusiast AI Architect with strong Engineering Background
 
 ### Visit me on
 
-<a href="https://www.xing.com/profile/Daniel_Schwarz76/cv">![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=none&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/daniel-schwarz-dev/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.xing.com/profile/Daniel_Schwarz76/cv">![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=none&logoColor=white)</a>
 <a href="https://www.codewars.com/users/bartfastiel">![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
 
 ### About me
@@ -12,13 +12,14 @@
 
 ### Tech Stack
 
+![Rust](https://shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
