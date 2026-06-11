@@ -6,10 +6,6 @@
 <a href="https://www.xing.com/profile/Daniel_Schwarz76/cv">![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=none&logoColor=white)</a>
 <a href="https://www.codewars.com/users/bartfastiel">![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
 
-### About me
-
-![](https://github-profile-trophy.vercel.app/?username=bartfastiel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### Tech Stack
 
 ![Rust](https://shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
